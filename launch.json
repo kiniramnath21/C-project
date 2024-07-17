@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "C:\\Users\\91636\\OneDrive\\Documents\\C# project\\bin\\Debug\\netcoreapp3.1\\CreditCardFraudDetection.dll",
+            "args": [],
+            "cwd": "C:\\Users\\91636\\OneDrive\\Documents\\C# project",
+            "console": "internalConsole",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart",
+            "preLaunchTask": "build"  // Ensure 'build' matches the task name defined in tasks.json
+        }
+    ]
+}

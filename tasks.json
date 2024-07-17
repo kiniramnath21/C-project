@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "C:\\Users\\91636\\OneDrive\\Documents\\C# project\\CreditCardFraudDetection.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
